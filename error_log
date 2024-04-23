@@ -1,0 +1,2 @@
+[22-Mar-2023 06:30:41 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home1/laaveget/public_html/codeigniotrdemo.beedee.co.in/public/demo/vcard1/application/controllers/Vcard_front.php on line 35
+[22-Mar-2023 06:42:53 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home1/laaveget/public_html/codeigniotrdemo.beedee.co.in/public/demo/vcard1/application/views/Users/index1.php on line 11
