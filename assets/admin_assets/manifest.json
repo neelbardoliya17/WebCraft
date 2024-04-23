@@ -1,0 +1,20 @@
+{
+    "short_name": "Test App",
+    "name": "Digital Card Admin",
+    "icons": [
+        {
+            "src": "../user_assets/home/fav1.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "../user_assets/home/fav2.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "http://localhost/vcard1/index.php/admin/index/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "theme_color": "#3367D6"
+}
